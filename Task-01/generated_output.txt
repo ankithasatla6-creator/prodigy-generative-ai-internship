@@ -1,0 +1,8 @@
+Python is a programming language for all over the world. It is responsible for the creation of the rich new syntax and has the vision to transform it into something more.
+
+
+This book is a collection of the most of which are well-known by people who have worked on it or have written it itself.
+
+It is a philosophy of coding, which is the basis of the language and a foundation of the language's functionality.
+
+It is a philosophy of programming that follows code,
