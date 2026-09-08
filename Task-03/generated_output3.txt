@@ -1,0 +1,1 @@
+A class defines the structure and behavior of objects.
